@@ -1,0 +1,15 @@
+__pycache__/
+.venv/
+venv/
+.env
+.pytest_cache/
+.idea/
+.vscode/
+*.pyc
+*.pyo
+*.pyd
+dist/
+build/
+*.egg-info/
+pip-wheel-metadata/
+playwright/.local-browsers/
